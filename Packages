@@ -6,8 +6,8 @@ Maintainer: Atomic Fish <felipecarlin7@gmail.com>
 Depends: firmware (>10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.atomicfish.redrectangle_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4000
-MD5sum: 1c30e02e7de9b2e0d6018007c73425e0
+Size: 4132
+MD5sum:b84666fc526f859d5ff6c8611a6e5d37
 Description: A tweak that creates a beautiful red square in the lock screen.
 Name: Red Rectangle
 Author: Atomic Fish <felipecarlin7@gmail.com>
