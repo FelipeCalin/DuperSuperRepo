@@ -23,7 +23,7 @@
 	<screenshots>
 		<screenshot>
 			<description>This is how it looks...</description>
-			<image>show01.jpeg</image>
+			<image>show01.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
@@ -36,11 +36,6 @@
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
-		</link>
-		<link>
-			<name>Elon Musk twitter</name>
-			<url>https://twitter.com/elonmusk</url>
-			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
