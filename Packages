@@ -31,7 +31,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 
 Package: com.atomicfish.redrectangle
-Version: 1.0.0-1
+Version: 1.0.2-1
 Section: Tweaks
 Maintainer: Atomic Fish <felipecarlin7@gmail.com>
 Depends: firmware (<7.0)
