@@ -22,12 +22,8 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This is how it looks...</description>
+			<image>show01.jpeg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
@@ -45,5 +41,6 @@
 			<name>Elon Musk twitter</name>
 			<url>https://twitter.com/elonmusk</url>
 			<iconclass>fa fa-twitter</iconclass>
+		</link>
 	</links>
 </package>
