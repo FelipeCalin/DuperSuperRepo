@@ -10,26 +10,29 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This tweak just creates a red rectangle in the lock screen.</shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 10.0</shortDescription>
 	<descriptionlist>
-		<description>Es increíble</description>
-		<description>Inigualable</description>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
 		<description><![CDATA[
-		test numero<br/> 
-		1 punto 33
+		You can also have<br/> 
+		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is how it looks...</description>
-			<image>show01.png</image>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>mainss.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>version 1.0.2-1</change>
+		<change>Second release</change>
 		<change>now it works</change>
-		<change>now it is 200 by 200</change>
 	</changelog>
 	<links>
 		<link>
