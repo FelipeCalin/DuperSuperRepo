@@ -1,0 +1,49 @@
+<package>
+	<id>com.supermamon.fullpackage</id>
+	<name>Full Package</name>
+	<version>1.0.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This tweak just creates a red rectangle in the lock screen.</shortDescription>
+	<descriptionlist>
+		<description>Es increíble</description>
+		<description>Inigualable</description>
+		<description><![CDATA[
+		test numero<br/> 
+		1 punto 33
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>version 1.0.2-1</change>
+		<change>now it works</change>
+		<change>now it is 200 by 200</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Elon Musk twitter</name>
+			<url>https://twitter.com/elonmusk</url>
+			<iconclass>fa fa-twitter</iconclass>
+	</links>
+</package>
